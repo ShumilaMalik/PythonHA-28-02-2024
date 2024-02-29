@@ -1,0 +1,1 @@
+Ein kurzer Python code, der dein Name und Alter abfragt.
